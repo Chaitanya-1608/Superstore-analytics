@@ -4,6 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
+- [Key insights](#Key-insights)
 - [Recommendations](#recommendations)
 
 ### Project Overview
@@ -63,7 +64,7 @@ EDA involved exploring the data to answer key questions, such as:
 Region wise customer segmentation was done based on sales, quantity purchased, or profitability. The same can be used for personalized marketing, targeted advertising, and improved customer retention strategies.
 
 
-### Results/Findings
+### Key insights
 
 The analysis results are summarized in the document mentioned below:
 
