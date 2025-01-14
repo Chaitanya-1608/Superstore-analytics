@@ -1,4 +1,4 @@
-# Supersote Analytics
+# Superstore Analytics
 
 ## Table of Contents
 
@@ -66,7 +66,7 @@ Region wise customer segmentation was done based on sales, quantity purchased, o
 
 ### Key insights
 
-The analysis results are summarized in the document mentioned below:
+The analysis results are summarized in the attached document.
 
 
 ### Recommendations
